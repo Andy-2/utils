@@ -1,0 +1,25 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "authors": [
+    "Andy Lee <lar_rabbit@qq.com>"
+  ],
+  "description": "Utils",
+  "main": "",
+  "moduleType": [],
+  "license": "GNU",
+  "homepage": "",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.6",
+    "doT": "1.0.1",
+    "jquery": "1.11.3",
+    "js-base64": "2.1.9",
+    "requirejs": "~2.1.20"
+  }
+}
